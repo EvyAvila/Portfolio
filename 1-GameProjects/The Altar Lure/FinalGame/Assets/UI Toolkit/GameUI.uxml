@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement>
+        <ui:Label text="RoomLocation" display-tooltip-when-elided="true" name="Location" style="font-size: 26px; color: rgb(178, 105, 0);" />
+        <ui:Label text="Items-List:" display-tooltip-when-elided="true" name="ItemsList" style="font-size: 26px; color: rgb(190, 190, 190); height: 180px; -unity-font-style: bold;" />
+    </ui:VisualElement>
+</ui:UXML>

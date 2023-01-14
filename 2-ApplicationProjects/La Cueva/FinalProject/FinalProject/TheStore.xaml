@@ -1,0 +1,33 @@
+﻿<Page x:Class="FinalProject.TheStore"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FinalProject"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="TheStore">
+
+    <Grid x:Name="MainGrid" Background="#FF563F1D" Loaded="MainGrid_Loaded">
+        <Image HorizontalAlignment="Left" Height="430" Margin="10,10,0,0" VerticalAlignment="Top" Width="750"  Stretch="Fill" Source="media/theVendor.png"/>
+        <Image HorizontalAlignment="Left" Height="122" Margin="377,145,0,0" VerticalAlignment="Top" Width="120" Source="media/itemOne.png" />
+        <Image HorizontalAlignment="Left" Height="122" Margin="502,145,0,0" VerticalAlignment="Top" Width="120" Source="media/itemTwo.png" />
+        <Image HorizontalAlignment="Left" Height="122" Margin="622,145,0,0" VerticalAlignment="Top" Width="120" Source="media/itemThree.png" />
+        <TextBlock HorizontalAlignment="Left" Margin="502,29,0,0" TextWrapping="Wrap" Text="Vendor" VerticalAlignment="Top" FontFamily="Impact" FontSize="24" Foreground="White"/>
+        <Button x:Name="ExitButton" Content="Back" HorizontalAlignment="Left" Margin="662,29,0,0" VerticalAlignment="Top" Width="75" Background="#FFF03838" BorderBrush="#FFF1D8D8" Foreground="#FFFFFEFE" Click="ExitButton_Click"/>
+        <TextBlock x:Name="ItemNames" HorizontalAlignment="Left" Margin="419,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Times New Roman" Foreground="White" Text="Name" Height="16" Width="297"/>
+        <TextBlock x:Name="ItemPrices" HorizontalAlignment="Left" Margin="419,250,0,0" TextWrapping="Wrap" Text="Price" VerticalAlignment="Top" FontFamily="Times New Roman" Foreground="White" Height="17" Width="297"/>
+
+        <Button x:Name="FertPurchase" Content="Purchase" HorizontalAlignment="Left" Margin="397,278,0,0" VerticalAlignment="Top" Width="75" BorderBrush="#FFF1DD6D" Foreground="#FF4E0D0D" Background="#FFFFF48E" Click="FertPurchase_Click"/>
+        <Button x:Name="MothPurchase" Content="Purchase" HorizontalAlignment="Left" Margin="522,278,0,0" VerticalAlignment="Top" Width="75" BorderBrush="#FFF1DD6D" Foreground="#FF4E0D0D" Background="#FFFFF48E" Click="MothPurchase_Click"/>
+        <Button x:Name="RabbitPurchase" Content="Purchase" HorizontalAlignment="Left" Margin="641,278,0,0" VerticalAlignment="Top" Width="75" BorderBrush="#FFF1DD6D" Foreground="#FF4E0D0D" Background="#FFFFF48E" Click="RabbitPurchase_Click"/>
+        <TextBlock x:Name="Speaking" HorizontalAlignment="Left" Margin="177,29,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="269" Width="173" Foreground="White" FontSize="16"/>
+        <TextBlock x:Name="ThePlayerMoney" HorizontalAlignment="Left" Margin="29,303,0,0" TextWrapping="Wrap" Text="Money" VerticalAlignment="Top" FontFamily="Times New Roman" Foreground="White" FontSize="20" Width="165" Height="29"/>
+        <TextBlock x:Name="Testing" HorizontalAlignment="Left" Margin="199,303,0,0" TextWrapping="Wrap" Text="Select the button you wish to sell" VerticalAlignment="Top" Height="91" Width="347" Foreground="White" FontFamily="Times New Roman" FontSize="20"/>
+        <TextBlock x:Name="SellingSign" HorizontalAlignment="Left" Margin="546,308,0,0" TextWrapping="Wrap" Text="Sign" VerticalAlignment="Top" Height="91" Width="196" FontFamily="Times New Roman" Foreground="White" FontSize="16"/>
+        <Button x:Name="SellButton" Content="Sell Corn" HorizontalAlignment="Left" Margin="177,399,0,0" VerticalAlignment="Top" Width="75" FontFamily="Times New Roman" Background="#FF9C6D08" Foreground="White" BorderBrush="#FF4D3A19" Click="SellButton_Click"/>
+        <Button x:Name="SellCottonButton" Content="SellCotton" HorizontalAlignment="Left" Margin="275,399,0,0" VerticalAlignment="Top" Width="75" FontFamily="Times New Roman" Background="#FF9C6D08" Foreground="White" BorderBrush="#FF4D3A19" Click="SellCottonButton_Click"/>
+        <Button x:Name="SellBeetleOneButton" Content="Sell Dermestid Beetle" HorizontalAlignment="Left" Margin="370,399,0,0" VerticalAlignment="Top" Width="127" FontFamily="Times New Roman" Background="#FF9C6D08" Foreground="White" BorderBrush="#FF4D3A19" Click="SellBeetleOneButton_Click"/>
+        <Button x:Name="SellBeetleTwo" Content="Sell Guano Beetle" HorizontalAlignment="Left" Margin="515,399,0,0" VerticalAlignment="Top" Width="107" FontFamily="Times New Roman" Background="#FF9C6D08" Foreground="White" BorderBrush="#FF4D3A19" Click="SellBeetleTwo_Click"/>
+    </Grid>
+</Page>

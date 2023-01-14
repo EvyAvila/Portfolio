@@ -1,0 +1,66 @@
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.exe
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.deps.json
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.json
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.dev.json
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.dll
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.pdb
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.csprojAssemblyReference.cache
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfoInputs.cache
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfo.cs
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.dll
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.pdb
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.genruntimeconfig.cache
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Pastel.dll
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.csproj.CopyComplete
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Brass_Chorale_and_Motet_FrenchHorn.wav
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Concerto_for_Bassoon.wav
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\It_Came_Upon_A_Midnight_Clear_Oboe.wav
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Moonlight_Haze_Saxophone.wav
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\MusicList.txt
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Relent_Clarinet.wav
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Salute_To_A_New_Beginning_Trumpet.wav
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Song_Of_The_Volga_Boatmen_Trombone.wav
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\The_Two_Seasons_Flute.wav
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Tuba_Waddle_Tuba.wav
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.csproj.CoreCompileInputs.cache
+C:\Users\Evyav\OneDrive - Columbia College Chicago\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Argonne - Zachariah Hickman.wav
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.exe
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Argonne - Zachariah Hickman.wav
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Brass_Chorale_and_Motet_FrenchHorn.wav
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Concerto_for_Bassoon.wav
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\It_Came_Upon_A_Midnight_Clear_Oboe.wav
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Moonlight_Haze_Saxophone.wav
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\MusicList.txt
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Relent_Clarinet.wav
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Salute_To_A_New_Beginning_Trumpet.wav
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Song_Of_The_Volga_Boatmen_Trombone.wav
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\The_Two_Seasons_Flute.wav
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Tuba_Waddle_Tuba.wav
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.deps.json
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.json
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.dev.json
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.dll
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Testing.pdb
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\Pastel.dll
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.csprojAssemblyReference.cache
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfoInputs.cache
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfo.cs
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.csproj.CoreCompileInputs.cache
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.csproj.CopyComplete
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.dll
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.pdb
+C:\Users\Evyav\Desktop\Schoolwork\Columbia College Chicago Fall 2020 Semester\ITP Fall 2020\Testing\Testing\Testing\obj\Debug\netcoreapp3.1\Testing.genruntimeconfig.cache

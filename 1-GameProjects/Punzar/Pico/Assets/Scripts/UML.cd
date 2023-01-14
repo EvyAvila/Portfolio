@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="BulletBehavior">
+    <Position X="0.75" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAGAAAAAAACIAAAAAAEAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BulletBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoorInteraction">
+    <Position X="7.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAECAACAAAAAAAAAAIAAAAEAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DoorInteraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Key_Interaction">
+    <Position X="11" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Key_Interaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainPlayer">
+    <Position X="0.5" Y="4.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>BQAEAAAIiiAAAAEAACAAAAABAABAIAgBUAAoAAACCAA=</HashCode>
+      <FileName>Assets\Scripts\MainPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainPlayerController">
+    <Position X="4.5" Y="7" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAEAAAABAAAAAIABQAEAAgABRAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainPlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainPlayerInteractions">
+    <Position X="6" Y="4.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABQCAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainPlayerInteractions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RestartGame">
+    <Position X="14.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAACAAAAgAAAAAAAAAAAAAAAABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\RestartGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TheCamera">
+    <Position X="17" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACBAAAAAAiAAABEAACCAAAAAAAAAAAABAAAAAQAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\TheCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyUnity">
+    <Position X="14.75" Y="4.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AARACAAAASACCABABAAAAAABAEAAAAAAAAAgAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\Soc\EnemyUnity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PunchEnemy">
+    <Position X="8.5" Y="9.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAASAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\Soc\PunchEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShooterEnemy">
+    <Position X="12.25" Y="9.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAESAAkAACAAAAAAAAAEAAAAAAABAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\Soc\ShooterEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GhostEnemy">
+    <Position X="15.75" Y="9.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAASAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\Soc\GhostEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BombEnemy">
+    <Position X="19.25" Y="9.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAASAAAAAAAAAAAAAAAEAAAAAAMgAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\Soc\BombEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEnemy">
+    <Position X="22.75" Y="9.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAASAAAAAAAAAAAAAAAEAAAAAABgAABAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\Soc\ShadowEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Audio">
+    <Position X="19" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAiAAAAQAAAAAAAAAgAAEAAAAAAAAIAAAIEA=</HashCode>
+      <FileName>Assets\Scripts\Audio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BulletDirection">
+    <Position X="4.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAIAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\BulletBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PlayerState">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAgAEAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EnemyTypes">
+    <Position X="12.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAEAAAAAAAAAAAAAAgECAAAABA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\Soc\EnemyUnity.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="KeyPlayMode">
+    <Position X="22" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAEAAAAAAIAAAIAAAQAAAAIAAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Audio.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="KeyPriority">
+    <Position X="23.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAgAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Audio.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

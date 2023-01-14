@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EndingInteraction">
+    <Position X="2" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAIAAAAAAAAAAAAAQAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\New Scripts\EndingInteraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurnBasedBattle">
+    <Position X="3.75" Y="1.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ABVAkggEACAAAAIAAEAAAAAAUADQAAQAAAIAABACAAA=</HashCode>
+      <FileName>Assets\Scripts\New Scripts\TurnBasedBattle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarBehavior">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\New Scripts\Star Scripts\StarBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarInteraction">
+    <Position X="8.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\New Scripts\Star Scripts\StarInteraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraScript">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAIAAAAAAIAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\New Scripts\ObjectsFollowPlayer\CameraScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LightScript">
+    <Position X="12.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAACAAAAAAACAAAAAAAAAAAAAAAACAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\New Scripts\ObjectsFollowPlayer\LightScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainPlayer">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQEAACAKAAAACCAAAABAAAAAAAgIAIAAAAAAhAA=</HashCode>
+      <FileName>Assets\Scripts\New Scripts\CharacterScripts\MainPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entity" Collapsed="true">
+    <Position X="14" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEAACAAAAAAACAAAAAAAEAABAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\New Scripts\CharacterScripts\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlackHoleEnemy">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAEAEACAAAAAAAAEAQAAAAAgAAAAIQAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\New Scripts\CharacterScripts\EnemyScripts\BlackHoleEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlanetEnemy">
+    <Position X="20.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAEAAACAAAAAAAAEAQAAAAAgAAACIQAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\New Scripts\CharacterScripts\EnemyScripts\PlanetEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperNovaEnemy">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAECAACAAAAAAAAEAQAAAAAgAAAAIQAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\New Scripts\CharacterScripts\EnemyScripts\SuperNovaEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
